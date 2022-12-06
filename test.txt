@@ -1,4 +1,4 @@
 Hello World!
-new
+
 Hello friend
 some text
